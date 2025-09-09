@@ -1,0 +1,9 @@
+teste de alteração no arquivo 3
+
+outra linha
+
+<<<<<<< HEAD
+teste local
+=======
+teste
+>>>>>>> refs/remotes/origin/main
