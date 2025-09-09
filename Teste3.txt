@@ -1,1 +1,1 @@
-teste de alteração no arquivo 3
+exemplo de merge
